@@ -126,7 +126,7 @@ To move away from standard default layouts, this dashboard was designed like a p
 ## 🖼️ Dashboard Showcase
 *(Placeholder for the terminal polished interface rendering)*
 
-![image
+![image alt](https://github.com/mannp2403-cmd/Flipkart-Price-Analysis/blob/6773396d6b008893f458bb771d6e0169299075e5/Screenshot%202026-07-19%20162242.png)
 
 ---
 ### 💡 How to Run the Project
